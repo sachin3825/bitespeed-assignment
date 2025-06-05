@@ -15,7 +15,10 @@
   "type": "commonjs",
   "dependencies": {
     "@prisma/client": "^6.9.0",
-    "prisma": "^6.9.0"
+    "@types/cors": "^2.8.18",
+    "cors": "^2.8.5",
+    "prisma": "^6.9.0",
+    "zod": "^3.25.51"
   },
   "devDependencies": {
     "@types/express": "^5.0.2",
