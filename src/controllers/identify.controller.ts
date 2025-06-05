@@ -1,6 +1,6 @@
 import { Request, Response } from 'express';
 import { prisma } from '../lib/prisma';
-import { LinkPrecedence, Contact } from '../generated/prisma/client';
+import { LinkPrecedence, Contact } from '@prisma/client';
 import { z } from 'zod';
 
 export interface ContactResponse {
