@@ -96,7 +96,7 @@ This solution supports use cases where customers place multiple orders with over
 
 ## API Usage
 
-### POST `/identify`
+### POST `/api/identify`
 
 **Request Body:**
 
